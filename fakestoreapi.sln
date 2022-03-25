@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeStore.Console", "fakestoreapi\FakeStore.Console.csproj", "{04A841B9-C18E-4B9A-9CEC-E9C29E6C397D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04A841B9-C18E-4B9A-9CEC-E9C29E6C397D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04A841B9-C18E-4B9A-9CEC-E9C29E6C397D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04A841B9-C18E-4B9A-9CEC-E9C29E6C397D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04A841B9-C18E-4B9A-9CEC-E9C29E6C397D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CBAC898-1B80-4385-A825-496285C841A2}
+	EndGlobalSection
+EndGlobal
