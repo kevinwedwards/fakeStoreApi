@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FakeStore.Console": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
