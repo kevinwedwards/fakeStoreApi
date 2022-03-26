@@ -11,6 +11,7 @@ List<Product>? highlyratedProducts = products?.Where(t => t.rating.rate > 3)
                                     .OrderByDescending(t => t.rating.rate)
                                     .ToList();
 
+
 if (highlyratedProducts!=null && highlyratedProducts.Any())
 {
     foreach (var product in highlyratedProducts)
