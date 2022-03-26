@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeStore.Console", "fakestoreapi\FakeStore.Console.csproj", "{04A841B9-C18E-4B9A-9CEC-E9C29E6C397D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FakeStore.Console", "fakestoreapi\FakeStore.Console.csproj", "{04A841B9-C18E-4B9A-9CEC-E9C29E6C397D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeStore.Console.Tests", "TestProject1\FakeStore.Console.Tests.csproj", "{83CC1A06-3049-4224-8417-690BF1F3580C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{04A841B9-C18E-4B9A-9CEC-E9C29E6C397D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04A841B9-C18E-4B9A-9CEC-E9C29E6C397D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04A841B9-C18E-4B9A-9CEC-E9C29E6C397D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83CC1A06-3049-4224-8417-690BF1F3580C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83CC1A06-3049-4224-8417-690BF1F3580C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83CC1A06-3049-4224-8417-690BF1F3580C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83CC1A06-3049-4224-8417-690BF1F3580C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

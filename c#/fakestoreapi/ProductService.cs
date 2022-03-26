@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace FakeStore.Console
 {
-    class ProductService : IProductService
+    public class ProductService : IProductService
     {
         readonly HttpClient client;
 
