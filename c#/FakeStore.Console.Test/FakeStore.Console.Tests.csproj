@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\fakestoreapi\FakeStore.Console.csproj" />
+    <ProjectReference Include="..\FakeStore.Console\FakeStore.Console.csproj" />
   </ItemGroup>
 
 </Project>
